@@ -1,0 +1,33 @@
+API:
+    API_spx: 'https://shopee.vn/api/v4/recommend/recommend?bundle=category_landing_page&cat_level=2'
+    request_img: 'https://down-vn.img.susercontent.com/file/'
+data:
+    result: '../result/'
+dict_product_ForHer: {
+11035648: 'quần',
+11035652: 'quần đùi',
+11035656: 'chân váy',
+11035657: 'quần jeans',
+11035658: 'đầm váy',
+11035660: 'đồ liền thân',
+11035665: 'áo khoác-áo vest-áo choàng',
+11035672: 'áo len-áo cardigan',
+11035673: 'hodie và áo nỉ',
+11035640: 'áo',
+11035867: 'mũ',
+11035869: 'kính mát nữ',
+11035825: 'giày nữ',
+11035761: 'túi,ví nữ'
+}
+dict_product_ForHim: {
+11035568: 'áo khoác',
+11035572: 'áo vest và blazer',
+11035578: 'áo len và áo nỉ',
+11035583: 'quần jeans',
+11035584: 'quần dài, quần âu',
+11035590: 'quần short',
+11035592: 'áo',
+11035620: 'kính mắt nam',
+11035801: 'giày nam',
+11035741: 'túi,ví nam'
+}
